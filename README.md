@@ -22,7 +22,7 @@ Para acceder al análisis completo, podés clonar el repositorio desde GitHub us
 bash
 Copiar
 Editar
-git clone 
+git clone https://github.com/conibre/Challenge-Alura-Store.git
 Solo tenés que ejecutar este comando desde la carpeta en la que quieras guardar el proyecto.
 
 🛠 Herramientas y Tecnologías Utilizadas
@@ -42,3 +42,4 @@ Calificación Promedio: Se midió el nivel de satisfacción de los clientes en c
 Productos más y menos vendidos: Se identificaron las categorías de productos con mayor y menor rotación por tienda.
 
 Costo Promedio de Envío: Se analizaron los gastos de envío promedio como indicador de demanda y eficiencia logística.
+
